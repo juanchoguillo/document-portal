@@ -1,0 +1,5 @@
+#!/Users/juancardona/Documents/llmops_class/document_portal/venv/bin/python3.10
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()

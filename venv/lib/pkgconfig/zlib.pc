@@ -1,0 +1,13 @@
+prefix=/Users/juancardona/Documents/llmops_class/document_portal/venv
+exec_prefix=/Users/juancardona/Documents/llmops_class/document_portal/venv
+libdir=/Users/juancardona/Documents/llmops_class/document_portal/venv/lib
+sharedlibdir=/Users/juancardona/Documents/llmops_class/document_portal/venv/lib
+includedir=/Users/juancardona/Documents/llmops_class/document_portal/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,4 +1,4 @@
-## Commands needs to follow
+<!-- ## Commands needs to follow -->
 
 ## below command is for windows(CMD)
 

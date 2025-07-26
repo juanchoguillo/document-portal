@@ -24,5 +24,4 @@ class CustomLogger:
 if __name__ == "__main__":
     logger=CustomLogger()
     logger=logger.get_logger(__file__)
-    logger.info("Custom logger initialized.")
-        
+    logger.info("Custom logger initialized.") 

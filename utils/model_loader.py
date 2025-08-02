@@ -108,6 +108,7 @@ if __name__ == "__main__":
     embeddings = loader.load_embeddings()
     print(f"Embedding Model Loaded: {embeddings}")
     
+    # Test the ModelLoader
     result=embeddings.embed_query("Hello, how are you?")
     print(f"Embedding Result: {result}")
     

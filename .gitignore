@@ -4,5 +4,7 @@ document_portal.egg-info
 venv/
 __pycache__/
 logs/
+faiis_index
+archive
 *.pyc
 # test.py
